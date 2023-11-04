@@ -1,0 +1,4 @@
+/* Tambahkan arahan Tailwind ke CSS */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
